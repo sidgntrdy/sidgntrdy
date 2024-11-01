@@ -1,9 +1,20 @@
+# About Me:
 👋 I'm Sid, a software engineer with expertise in LLLM's and RAG based application along with building usable website interfaces. 
 
+
+
+# Fun Facts:
 - 🎓 Third-year computer engineering student at the University of Toronto
 - 🌱 Currently learning ML models with vision analysis
 - 🎯 Building [ryko.org](https://ryko.org), a platform that creates personalized educational experiences made for you!
 - 💬 Interested in edutech, AI, and startups, but would love to chat about anything!
+
+
+## 💻 Tech Stack:
+
+
+## 🌐 Socials:
+
 
 
 <!--
