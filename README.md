@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sid, a software engineer with expertise in LLLM's and RAG based application along with building usable website interfaces. 
+👋 I'm Sid, a software engineer with expertise in LLLM's and RAG based application along with building usable website interfaces. 
 
 - 🎓 Third-year computer engineering student at the University of Toronto
 - 🌱 Currently learning ML models with vision analysis
